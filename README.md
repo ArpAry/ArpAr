@@ -1,4 +1,4 @@
-# Arp
+# ArpAry
 my personal repository
 <p align="center"> <img width="500" height="60%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ArpAry"/></p>
 <h1 align="center">Hi 👋, I'm  Arpit Arya</h1>
