@@ -1,4 +1,4 @@
-# ArpAry
+<!-- # ArpAry
 my personal repository
 <p align="center"> <img width="500" height="60%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="ArpAry"/></p>
 <h1 align="center">Hi 👋, I'm  Arpit Arya</h1>
@@ -22,3 +22,4 @@ my personal repository
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArpAry&show_icons=true&locale=en" alt="ArpAry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpAry&" alt="ArpAry" /></p>
+ -->
