@@ -20,5 +20,5 @@ my personal repository
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArpAry&show_icons=true&locale=en" alt="ArpAry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpAry&" alt="ArpAry" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpAry&" alt="ArpAry" /></p> -->
 
